@@ -1,0 +1,20 @@
+target/
+
+# Compiled output
+out/
+*.class
+
+# Build artifacts
+sources.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Downloaded dependencies (auto-fetched by build script)
+lib/
